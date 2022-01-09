@@ -1,0 +1,1 @@
+Note: dont forget to adjust ports in betterspikeprime_src.llsp or .lms, then run _---InstallerMaker.py in installer folder
